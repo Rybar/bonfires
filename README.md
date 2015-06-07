@@ -1,0 +1,1 @@
+These are my solutions to bonfires (coding challenges) at freecodecamp.com.  
